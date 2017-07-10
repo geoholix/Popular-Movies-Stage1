@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Popular Movies Stage 1</string>
+    <string name="highrated">High Rated</string>
+    <string name="mostpopular">Most Popular</string>
+    <string name="title_activity_movie">MovieActivity</string>
+    <string name="Null">Null</string>
+    <string name="releaseDate">Release Date: </string>
+    <string name="overallRating">Overall Rating: </string>
+</resources>
